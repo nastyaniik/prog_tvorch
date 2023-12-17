@@ -11,6 +11,6 @@
 
 1. смайлик 😄
 2. сердечко ❤️
-3. какая-то ссылка https://github.com/nastyaniik/prog_tvorch/assets/154084672/cc525c33-8a85-482a-bff1-35db76ad8af0
+3. какая-то ссылка(безопасно переходить) https://github.com/nastyaniik/prog_tvorch/assets/154084672/cc525c33-8a85-482a-bff1-35db76ad8af0
 
 
